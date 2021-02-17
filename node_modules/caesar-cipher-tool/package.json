@@ -1,0 +1,22 @@
+{
+  "name": "caesar-cipher-tool",
+  "version": "1.0.0",
+  "description": "Caesar Cipher Tool for js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melonattacker/caesar-cipher-tool.git"
+  },
+  "author": "Junki Yuasa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melonattacker/caesar-cipher-tool/issues"
+  },
+  "homepage": "https://github.com/melonattacker/caesar-cipher-tool#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}

@@ -134,7 +134,7 @@ app.get('/lotto', (req, res) => {
     if (!numbers) {
         return res
             .status(400)
-            .send("nnumbers are required");
+            .send("numbers are required");
     }
 
     if (!Array.isArray(numbers)) {
